@@ -1,2 +1,3 @@
 TestProject
 ===========
+Minor changes added
